@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Óscar</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
-Hi, I'm a front-end developer passionate about creating captivating web experiences. My expertise is in JavaScript and React. Recently, I have been using React and Redux for my projects, enhancing user experience. I'm seeking new opportunities to apply my growing skill set to exciting projects.  If my expertise aligns well with what you're looking, let's connect!
+<h3 align="center">A passionate fullstack developer from Spain</h3>
+Hi, I'm a front-end developer passionate about creating captivating web experiences. My expertise is in JavaScript and React. Recently, I have been using React and Redux for my projects to enhance the user experience. I'm seeking new opportunities to apply my growing skill set to exciting projects.  If my expertise aligns well with what you're looking, let's connect!
 
-- 📊 I worked as Frontend Developer and QA in AddComm.
+- 📊 I am working as Fullstack developer in CheckinScan
   
 - 🌱 I’m currently learning **React, Remix and Web development in general**
 
