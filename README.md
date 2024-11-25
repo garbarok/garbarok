@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Óscar</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
-Hi, I'm a front-end developer passionate about creating captivating web experiences. My expertise is in JavaScript and React. Recently, I have been using React and Redux for my projects to enhance the user experience. I'm seeking new opportunities to apply my growing skill set to exciting projects.  If my expertise aligns well with what you're looking, let's connect!
+<h1 align="center">Hi 👋, I'm Óscar</h1> 
+<h3 align="center">A Fullstack Developer from Spain</h3>
+Hey there! Welcome to my GitHub. I’m Óscar, a Software Engineer who loves building clean, scalable, and user-focused applications. I have a solid background in JavaScript, React, and Node.js, and I’m always looking for ways to write better, more maintainable code.
 
-- 📊 I am working as Fullstack developer in CheckinScan
+Right now, I’m a Fullstack Developer at Mavelpoint, where I work on exciting projects that keep me on my toes. Whether it’s creating seamless frontend experiences or designing robust backend systems, I genuinely enjoy diving into all aspects of development.
   
-- 🌱 I’m currently learning **React, Remix and Web development in general**
+- 🌱 I’m diving deeper into **Node.js and NestJS** to sharpen my backend skills.
 
 - 👨‍💻 All of my projects are available at [https://www.oscargallegoruiz.com/](https://www.oscargallegoruiz.com/)
 
