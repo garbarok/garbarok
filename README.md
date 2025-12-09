@@ -113,10 +113,15 @@ Knowledge sharing, mentoring, cross-functional teamwork, design-dev alignment
 
 ## Featured Projects
 
-**🏍️ Motorcycle Route Platform** (In Progress)
-Full-stack application for motorcycle route planning, curation, and community sharing
-**Tech:** Next.js 15, NestJS, PostgreSQL/PostGIS, Mapbox GL, Prisma
-**Highlights:** GPX parsing, geographic queries with PostGIS, route optimization algorithms, interactive map visualization, Clean Architecture with clear domain boundaries
+**💰 Wealth Sim** ([Live Demo](https://wealthsim.app) · [GitHub](https://github.com/garbarok/wealth-calculator))
+Premium compound interest calculator with interactive visualizations and historical market data
+**Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS 4, Recharts
+**Highlights:** Real-time calculations with visual feedback, historical benchmarks (S&P 500, NASDAQ, MSCI World), scenario comparison (up to 5 scenarios), inflation adjustment, PDF export, dark mode, auto-save with LocalStorage
+
+**🗜️ SnapCompress** ([Live Demo](https://snapcompress.io) · [GitHub](https://github.com/garbarok/snap-compress))
+Free online image compression, conversion, and resizing tool with 100% client-side processing
+**Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, browser-image-compression
+**Highlights:** Image compression (up to 90% reduction), format conversion (JPEG/PNG/WebP/HEIC), resizing with presets, GDPR compliant, comprehensive testing suite (Vitest, Playwright), SEO optimized (689-page audit), privacy-focused (no server uploads)
 
 **📊 GA4 Manager** ([GitHub](https://github.com/garbarok/ga4-manager))
 CLI tool for managing Google Analytics 4 properties with programmatic configuration
@@ -138,19 +143,3 @@ CLI tool for managing Google Analytics 4 properties with programmatic configurat
 [![Email](https://custom-icon-badges.demolab.com/badge/-work@oscargallegoruiz.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:work@oscargallegoruiz.com)
 
 </div>
-
----
-
-<details>
-  <summary><strong>GitHub Statistics</strong></summary>
-  <br/>
-  <div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garbarok&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=garbarok&theme=dark&hide_border=false)
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garbarok&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" />
-
-  </div>
-</details>
