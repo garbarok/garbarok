@@ -5,7 +5,7 @@
 
 </div>
 
-Full-stack engineer with 3 years building scalable web applications across frontend and backend.
+Full-stack engineer with 4 years building scalable web applications across frontend and backend.
 Currently @ **StiboDX**, developing Angular features in an **Nx monorepo**, conducting code reviews, and establishing patterns for the team.
 Strong experience with **React/Next.js** and **NestJS** backends, with focus on **clean architecture**, **testing**, and **maintainable systems**.
 
